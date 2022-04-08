@@ -20,13 +20,9 @@
 
 ![room pic](https://github.com/shantanu16101998/chat_app/blob/main/displaypics/room%20pic.jpeg)
 
-## Video calling
-
-![video calling](https://github.com/shantanu16101998/chat_app/blob/main/displaypics/videocalling.png)
 
 ## Encryption
 
 ![encryption](https://github.com/shantanu16101998/chat_app/blob/main/displaypics/crypto.png)
 
 
-## Made with :heart: by me and Shivendra
